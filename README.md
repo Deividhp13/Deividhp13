@@ -23,8 +23,8 @@ Here’s my go-to toolset for building reliable, cloud-native AI systems:
 ### 🔧 Infrastructure & Lifecycle
 
 - **Cloud Platforms:**  
-  - **AWS**: EC2, S3, Lambda, SageMaker  
-  - **Azure**: Machine Learning, DevOps, Functions, Storage  
+  - **AWS**: EC2, S3, Lambda, SageMaker, CodePipeline 
+  - **Azure**: Machine Learning, DevOps, Functions, Storage
 
 - **MLOps & Workflow Management:**  
   - **MLflow** (experiments, packaging, registry)  
